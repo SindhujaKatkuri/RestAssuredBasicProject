@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-12T14:48:42 CST" name="Default suite" finished-at="2020-01-12T14:48:47 CST" duration-ms="4656">
+    <groups>
+    </groups>
+    <test started-at="2020-01-12T14:48:42 CST" name="Default test" finished-at="2020-01-12T14:48:47 CST" duration-ms="4656">
+      <class name="DataDrivenTesting.TC01_DataDrivenTest_AddNewEmployees">
+        <test-method signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTesting.TC01_DataDrivenTest_AddNewEmployees@78b1cc93]" started-at="2020-01-12T14:48:43 CST" name="postNewEmployees" data-provider="employeeDataProvider" finished-at="2020-01-12T14:48:45 CST" duration-ms="1697" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sin12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[26]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+        <test-method signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTesting.TC01_DataDrivenTest_AddNewEmployees@78b1cc93]" started-at="2020-01-12T14:48:45 CST" name="postNewEmployees" data-provider="employeeDataProvider" finished-at="2020-01-12T14:48:45 CST" duration-ms="544" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Axe23]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[27]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+        <test-method signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTesting.TC01_DataDrivenTest_AddNewEmployees@78b1cc93]" started-at="2020-01-12T14:48:45 CST" name="postNewEmployees" data-provider="employeeDataProvider" finished-at="2020-01-12T14:48:46 CST" duration-ms="506" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alan34]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[28]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+        <test-method signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTesting.TC01_DataDrivenTest_AddNewEmployees@78b1cc93]" started-at="2020-01-12T14:48:46 CST" name="postNewEmployees" data-provider="employeeDataProvider" finished-at="2020-01-12T14:48:46 CST" duration-ms="509" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aji45]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[29]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+        <test-method signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTesting.TC01_DataDrivenTest_AddNewEmployees@78b1cc93]" started-at="2020-01-12T14:48:46 CST" name="postNewEmployees" data-provider="employeeDataProvider" finished-at="2020-01-12T14:48:47 CST" duration-ms="510" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sri56]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+      </class> <!-- DataDrivenTesting.TC01_DataDrivenTest_AddNewEmployees -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
